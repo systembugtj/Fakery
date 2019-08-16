@@ -1,0 +1,16 @@
+PODS:
+  - Fakery (5.0.0)
+
+DEPENDENCIES:
+  - Fakery (from `../../`)
+
+EXTERNAL SOURCES:
+  Fakery:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  Fakery: 0efdd9f83e10ab3edfc3adefe363ec24f1b9d2d0
+
+PODFILE CHECKSUM: 32a7cf3f8c4895dbd2e47fe8dc22fd7332d8d7f4
+
+COCOAPODS: 1.7.5
